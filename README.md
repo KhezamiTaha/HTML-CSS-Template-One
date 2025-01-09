@@ -3,16 +3,16 @@
 
 This is a simple and responsive website template built with **HTML** and **CSS** as part of my learning journey. The design is clean, modern, and adaptive, making it suitable for various types of projects.
 
-![HTML Preview](images/68747470733a2f2f7777772e69696d2e66722f65636f6c652d7765622f77702d636f6e74656e742f75706c6f6164732f323031372f30312f48544d4c352e6a7067.webp)
+## Preview
+![Website Preview](images/khezamitaha.github.io_HTML-CSS-Template-One_.png)
+
+
 
 ## Features
 - Fully responsive design
 - Sleek and modern layout
 - Includes sections like **Services**, **Portfolio**, and **About**
 - User-friendly and accessible
-
-## Preview
-![Website Preview](images/khezamitaha.github.io_HTML-CSS-Template-One_.png)
 
 ## Sections Overview
 1. **Hero Section**  
@@ -40,6 +40,8 @@ This is a simple and responsive website template built with **HTML** and **CSS**
 ## Technologies Used
 - **HTML5**: For creating the structure and content of the webpage.
 - **CSS3**: For styling and ensuring responsiveness.
+
+![HTML Preview](images/68747470733a2f2f7777772e69696d2e66722f65636f6c652d7765622f77702d636f6e74656e742f75706c6f6164732f323031372f30312f48544d4c352e6a7067.webp)
 
 ## Live Demo
 The project is live and can be viewed here:  
