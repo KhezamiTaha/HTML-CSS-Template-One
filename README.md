@@ -11,6 +11,9 @@ This is a simple and responsive website template built with **HTML** and **CSS**
 - Includes sections like **Services**, **Portfolio**, and **About**
 - User-friendly and accessible
 
+## Preview
+![Website Preview](images/khezamitaha.github.io_HTML-CSS-Template-One_.png)
+
 ## Sections Overview
 1. **Hero Section**  
    - Welcoming message with a captivating background image and tagline.
@@ -49,8 +52,7 @@ The project is live and can be viewed here:
 2. Open the project folder.
 3. Launch the `index.html` file in your favorite browser to view the website.
 
-## Preview
-![Website Preview](images/khezamitaha.github.io_HTML-CSS-Template-One_.png)
+
 
 ## Credits
 - This project was designed and developed by **Khezami Taha**.  
