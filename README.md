@@ -3,6 +3,8 @@
 
 This is a simple and responsive website template built with **HTML** and **CSS** as part of my learning journey. The design is clean, modern, and adaptive, making it suitable for various types of projects.
 
+![HTML Preview](images/68747470733a2f2f7777772e69696d2e66722f65636f6c652d7765622f77702d636f6e74656e742f75706c6f6164732f323031372f30312f48544d4c352e6a7067.webp)
+
 ## Features
 - Fully responsive design
 - Sleek and modern layout
@@ -48,7 +50,7 @@ The project is live and can be viewed here:
 3. Launch the `index.html` file in your favorite browser to view the website.
 
 ## Preview
-![Website Preview](images/Preview_image.png)
+![Website Preview](images/khezamitaha.github.io_HTML-CSS-Template-One_.png)
 
 ## Credits
 - This project was designed and developed by **Khezami Taha**.  
@@ -56,8 +58,5 @@ The project is live and can be viewed here:
 
 ## License
 This project is open source and available under the MIT License.
-```
 
-### Notes:
-1. Update the preview image path (replace `path-to-your-preview-image.png` with an appropriate path or screenshot name).
-2. Replace the credit details or add more details about your project as needed.
+
