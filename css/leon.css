@@ -54,7 +54,7 @@ html{
     }
 }
 
-/* =====Change this later===================================================== */
+
 @media (min-width: 1200px) {
     .container {
         width: 1170px;
@@ -76,7 +76,7 @@ html{
 
 }
 
-.special-heading+p {
+.special-heading + p {
     color: #575757;
     font-size: 17px;
     font-weight: 400;
